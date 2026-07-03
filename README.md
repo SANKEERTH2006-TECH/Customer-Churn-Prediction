@@ -64,25 +64,19 @@ The objective of this project is to identify customers who are likely to leave t
 > Replace this image with your Block Diagram.
 
 <p align="center">
-<img src="" width="900">
+<img src="CCP_Block_Diagram.png" width="900">
 </p>
 
 ---
 
 # 🌐 Web Application
 
-## 🏠 Home Page
 
-<p align="center">
-<img src="images/home_page.png" width="900">
-</p>
-
----
 
 ## 📈 Prediction Result
 
 <p align="center">
-<img src="images/prediction_result.png" width="900">
+<img src="CCP_Output.png" width="900">
 </p>
 
 ---
